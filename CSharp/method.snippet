@@ -14,9 +14,14 @@
     <Snippet>
       <Declarations>
         <Literal>
+          <ID>modifier</ID>
+          <ToolTip>修飾子</ToolTip>
+          <Default>public</Default>
+        </Literal>
+        <Literal>
           <ID>return</ID>
           <ToolTip>戻り値</ToolTip>
-          <Default>public</Default>
+          <Default>void</Default>
         </Literal>
         <Literal>
           <ID>name</ID>
@@ -31,11 +36,10 @@
       </Declarations>
       <Code Language="csharp">
         <![CDATA[
-        $return$ $name$($args)
+        $modifier$ $return$ $name$($args$)
         {
             $end$
-        }
-        ]]></Code>
+        }]]></Code>
     </Snippet>
   </CodeSnippet>
 </CodeSnippets>
