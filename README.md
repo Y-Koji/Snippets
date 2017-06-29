@@ -1,6 +1,6 @@
 ﻿# Snippets
 ## Visual Studio  Snippets
-俺俺Visual Studio用のスニペット
+俺俺Visual Studioスニペット
 
 「.snippet」ファイルを
 C:\Users\[ユーザー名]\Documents\Visual Studio [バージョン]\Code Snippets\[言語]\My Code Snippets
