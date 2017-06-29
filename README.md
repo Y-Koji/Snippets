@@ -10,5 +10,7 @@ C:\Users\[ユーザー名]\Documents\Visual Studio [バージョン]\Code Snippe
 C#のプロジェクトを編集中メソッドを記述したい場所でmethodと入力し
 Tabキーを押すことで自動的にコードが展開されます。
 
+思いついたら共有しよ～
+
 ## `method` Snippet
 ![method](https://i.imgur.com/BanxK9Q.gif)
