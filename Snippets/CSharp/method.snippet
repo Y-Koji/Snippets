@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>method</Title>
+      <Shortcut>method</Shortcut>
+      <Description>メソッドに対するコード スニペット</Description>
+      <Author>Yasutomi</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+        <SnippetType>SurroundsWith</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>return</ID>
+          <ToolTip>戻り値</ToolTip>
+          <Default>public</Default>
+        </Literal>
+        <Literal>
+          <ID>name</ID>
+          <ToolTip>メソッド名</ToolTip>
+          <Default>MyMethod</Default>
+        </Literal>
+        <Literal>
+          <ID>args</ID>
+          <ToolTip>引数リスト</ToolTip>
+          <Default></Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[
+        $return$ $name$($args)
+        {
+            $end$
+        }
+        ]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
