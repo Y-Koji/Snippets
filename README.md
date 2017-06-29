@@ -7,7 +7,7 @@ C:\Users\[ユーザー名]\Documents\Visual Studio [バージョン]\Code Snippe
 に置くことで使えるようなります。
 
 例えば`method`スニペットなら上記の場所に「method.snippet」を保存後、
-C#のプロジェクトを編集中、メソッドを記述したい場所でmethodと入力し
+C#のプロジェクトを編集中メソッドを記述したい場所でmethodと入力し
 Tabキーを押すことで自動的にコードが展開されます。
 
 ## `method` Snippet
