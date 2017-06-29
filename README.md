@@ -3,4 +3,4 @@
 俺俺Visual Studio用のスニペット
 
 ## `method` Snippet
-![](https://i.imgur.com/BanxK9Q.gif)
+![method](https://i.imgur.com/BanxK9Q.gif)
