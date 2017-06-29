@@ -8,6 +8,12 @@ namespace SnippetTest
 {
     class Program
     {
+
+        public void MyMethod()
+        {
+
+        }
+
         static void Main(string[] args)
         {
         }

@@ -1,4 +1,6 @@
 # Snippets
-Visual Studio  Snippets
+## Visual Studio  Snippets
+俺俺Visual Studio用のスニペット
 
-## Method Snippet
+## `method` Snippet
+![](https://i.imgur.com/BanxK9Q.gif)
